@@ -1,0 +1,29 @@
+{
+  "name": "metalsmith-imagemin-optipng",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyAstige/metalsmith-imagemin-optipng.git"
+  },
+  "keywords": [
+    "Metalsmith",
+    "imagemin-optipng",
+    "optipng",
+    "png"
+  ],
+  "author": "Anthony Astige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyAstige/metalsmith-imagemin-optipng/issues"
+  },
+  "homepage": "https://github.com/AnthonyAstige/metalsmith-imagemin-optipng#readme"
+}
