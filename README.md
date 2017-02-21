@@ -16,5 +16,5 @@ Metalsmith(__dirname)
 
 # Parameters
 
-* **pattern** is relative to your source and uses multimatch / glob
+* **pattern** is relative to your source and uses multimatch / glob to choose which files to apply to
 * **options** are passed along to optipng
