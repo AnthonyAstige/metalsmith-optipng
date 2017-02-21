@@ -1,13 +1,9 @@
-// TODO: REVIEW & CLEANUP & REFACTOR ALL CODE AS NEEDED
 const OptiPng = require('optipng')
 const toArray = require('stream-to-array')
 const streamify = require('streamifier')
 const _ = require('lodash')
 const multimatch = require('multimatch')
 const util = require('util')
-
-// Refrence: promise chain loop
-// http://stackoverflow.com/a/38574458
 
 // Promises to apply optipng optomizer to filename's content
 function promiseToOptiPng(msFiles, filename, optomizer) {
